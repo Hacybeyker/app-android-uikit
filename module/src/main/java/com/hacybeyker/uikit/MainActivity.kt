@@ -1,4 +1,4 @@
-package com.hacybeyker.module
+package com.hacybeyker.uikit
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity

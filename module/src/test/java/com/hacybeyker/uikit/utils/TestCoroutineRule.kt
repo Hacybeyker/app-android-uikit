@@ -1,4 +1,4 @@
-package com.hacybeyker.module.utils
+package com.hacybeyker.uikit.utils
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.ExperimentalCoroutinesApi

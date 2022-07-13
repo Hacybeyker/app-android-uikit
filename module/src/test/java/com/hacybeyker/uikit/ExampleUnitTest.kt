@@ -1,4 +1,4 @@
-package com.hacybeyker.module
+package com.hacybeyker.uikit
 
 import org.junit.Assert.assertEquals
 import org.junit.Test
