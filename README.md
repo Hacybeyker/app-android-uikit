@@ -1,6 +1,6 @@
 # Module Uikit
 
-![GithubActions](https://github.com/hacybeyker/app-android-uikit/actions/workflows/android_publish.yml/badge.svg?branch=master) ![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=app-android-uikit&metric=alert_status)
+![GithubActions](https://github.com/hacybeyker/app-android-uikit/actions/workflows/android_publish.yml/badge.svg?branch=master) ![SonarCloud](https://sonarcloud.io/api/project_badges/measure?project=hacybeyker-app-android-uikit&metric=alert_status)
 
 Android module that provides customs views.
 
@@ -35,7 +35,7 @@ git submodule update
 
 ## Service
 - [Github Actions](https://github.com/Hacybeyker/app-android-uikit/actions)
-- [SonarCloud](https://sonarcloud.io/project/overview?id=app-android-uikit)
+- [SonarCloud](https://sonarcloud.io/project/overview?id=hacybeyker-app-android-uikit)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
